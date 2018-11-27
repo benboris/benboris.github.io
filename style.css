@@ -22,7 +22,7 @@ hr {
 .faded {
   color: rgba(255, 255, 255, 0.8);
   /*padding-top: 15%; */ 
- padding: 10px 0 10px 3%;
+ padding-bottom: 13%;
 }
 
 header.startup {
