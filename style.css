@@ -29,7 +29,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url('https://github.com/benboris/benboris.github.io/blob/master/header.jpg?raw=true');
+  background-image: url("https://github.com/benboris/benboris.github.io/blob/master/header.jpg");
   background-size: cover;
   height: 100%;
 }
