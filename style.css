@@ -29,7 +29,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("https://github.com/benboris/benboris.github.io/blob/master/header.jpg");
+  background-image: url('header.jpg');
   background-size: cover;
   height: 100%;
 }
@@ -46,7 +46,7 @@ header.startup h1 {
 
 .btn {
   font-weight: 700;
- /* text-transform: uppercase; */
+  text-transform: uppercase; 
   border-radius: 300px; 
   font-family: 'Roboto Condensed', sans-serif;
 }
